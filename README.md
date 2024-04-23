@@ -4,6 +4,6 @@ LaserTracker is a Python-based system for real-time laser point tracking using c
 
 # Features
 * Real-time laser point detection and tracking using a webcam
-Utilizes a pan and tilt setup with mounted lasers for precise positioning
-Suitable for security camera systems and experimental setups
-Detects and tracks circular reference points, adjusting the laser position accordingly
+* Utilizes a pan and tilt setup with mounted lasers for precise positioning
+* Suitable for security camera systems and experimental setups
+* Detects and tracks circular reference points, adjusting the laser position accordingly
