@@ -34,3 +34,8 @@ LaserTracker is a Python-based system for real-time laser point tracking using c
 - Run the Python script (Opencv_code.py) to start the tracking system:python Opencv_code.py
 
 - Point the laser at the camera and observe how the system tracks the laser point by adjusting the pan and tilt
+  
+# Contributing
+Contributions are welcome! Fork the repository, make enhancements, and submit pull requests.
+
+Feel free to use this modified description for your LaserTracker project. Let me know if you need further assistance!
