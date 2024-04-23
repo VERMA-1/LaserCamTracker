@@ -12,3 +12,25 @@ LaserTracker is a Python-based system for real-time laser point tracking using c
 - Python 3.x with OpenCV and NumPy
 - Arduino IDE for servo control
 - Compatible webcam, Arduino nano board, 2 axis pan and tilt setup with mounted lasers(green),7805,Sg90,adapter,DC Jack,Jumper wire,Mini BreadBoard
+
+# Circuit Diagram
+
+
+# Setup
+- Install Python Dependencies:
+
+  pip install opencv-python numpy pyserial
+
+- Upload Arduino Sketch
+
+- Connect your Arduino board to your computer.
+
+- Open the Arduino IDE and upload the provided Arduino sketch (arduino_nano.ino) to your Arduino board.
+
+- Connect your webcam to your computer and ensure it's recognized.
+
+- Connect the pan and tilt setup with mounted lasers to your Arduino board.
+
+- Run the Python script (Opencv_code.py) to start the tracking system:python Opencv_code.py
+
+Point the laser at the camera and observe how the system tracks the laser point by adjusting the pan and tilt
