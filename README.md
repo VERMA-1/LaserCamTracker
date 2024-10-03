@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/578fca9d-9767-4588-8963-230601e2f1c4
 
 - Point the laser at the camera and observe how the system tracks the laser point by adjusting the pan and tilt
   
-# Contributing
+# Contributors
  - Pushpendra Verma
  - Vishal Yadav
  - Sandeep Yadav
